@@ -113,7 +113,7 @@ jQuery(document).ready(function($) {
 	$("<option />", {
 		"selected": "selected",
 		"value"   : "",
-		"text"    : "Navigation"
+		"text"    : "菜单"
 	}).appendTo("#combo-holder select");
 	
 	// Populate dropdown with menu items
